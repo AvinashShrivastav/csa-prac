@@ -1,0 +1,8 @@
+INP
+STA NUMB1
+INP
+ADD NUMB1
+OUT
+HLT
+
+NUMB1: .data 2 0
